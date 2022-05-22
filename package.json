@@ -2,9 +2,8 @@
   "name": "solution",
   "version": "1.0.0",
   "description": "",
-  "main": "countOddValues.js",
   "scripts": {
-    "start": "index.html"
+    "start": "node tvmaze.js"
   },
   "keywords": [],
   "author": "",
